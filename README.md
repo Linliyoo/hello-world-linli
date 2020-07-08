@@ -1,2 +1,7 @@
 # hello-world-linli
-just try it
+
+Hi Humans!
+
+I'll try my best.
+
+Trust me:D
